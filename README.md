@@ -76,8 +76,8 @@ Analyzed order frequency and spending behavior.
 ## 📷 Project Output
 
 ### 🔹 Top Customers by Revenue
-![Top Customers]([screenshots/Top_customer_by_Revenue](https://github.com/ayupatel345/Book-Sales-Analysis-System-SQL/blob/main/Screenshots/Top_customer_by_Revenue.png))
+![Top Customers]([Screenshots/Top_customer_by_Revenue.png])
 
 ### 🔹 Best-Selling Books
-![Best Selling Books]([screenshots/Best_selling_books](https://github.com/ayupatel345/Book-Sales-Analysis-System-SQL/blob/main/Screenshots/Best_selling_books.png))
+![Best Selling Books]([Screenshots/Best_selling_books.png])
 
