@@ -76,8 +76,8 @@ Analyzed order frequency and spending behavior.
 ## 📷 Project Output
 
 ### 🔹 Top Customers by Revenue
-![Top Customers](screenshots/top_customers.png)
+![Top Customers](screenshots/Top_customer_by_Revenue)
 
 ### 🔹 Best-Selling Books
-![Best Selling Books](screenshots/best_selling_books.png)
+![Best Selling Books](screenshots/Best_selling_books)
 
